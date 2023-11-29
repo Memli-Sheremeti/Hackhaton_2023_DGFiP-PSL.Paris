@@ -12,7 +12,7 @@ Technologies Utilisées
 
 Structure du Répertoire
 
-  `APP/ : Directory du code et son utilisation, le jeux de donne.`
+  `app: Directory du code et son utilisation, le jeux de donne.`
   
   `README.md: Description détaillée du projet, instructions pour reproduire les résultats, et toute information pertinente.`
 
