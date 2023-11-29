@@ -1,10 +1,10 @@
 # Hackathon de la DGFiP - Novembre 2023
 
 La direction générale des Finances publiques (“DGFiP”) a organisé un hackathon qui s'est tenu les 24 et 25 novembre 2023.
-Nous remercions tous les participants à ce bel évènements, et félicitons une nouvelle fois les gagnants de cette édition !
-Pour rappel, voici quelques informations sur notre organisation et les détails des défis proposés.
 
-## I. Qui sommes-nous ?
+Pour rappel, voici quelques informations sur l'organisation et les détails des défis proposés.
+
+## I. Qui sont les organistaeurs ?
 
 La direction générale des Finances publiques (DGFiP) représente à la fois un service public enraciné dans l’histoire de l’État et une administration nouvelle issue de la fusion en 2008 de la direction générale des impôts et de la direction générale de la comptabilité publique.
 
