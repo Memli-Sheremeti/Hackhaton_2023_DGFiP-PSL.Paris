@@ -1,39 +1,34 @@
-## Hackathon DGFIP - PSL Paris Dauphine
+Outil d'Évaluation de l'Attractivité Fiscale des Territoires pour les Entreprises
+Contexte
 
-Hackathon DGFiP - Défi 3: Mesurer l’attractivité fiscale des territoires pour les entreprises
-Description
+La décision stratégique d'implantation d'une entreprise dépend de nombreux facteurs, dont la pression fiscale locale. Cet outil vise à aider les entreprises à évaluer l'attractivité fiscale des territoires en Charente, en se basant sur une analyse des impôts locaux, des exonérations et des taux d'imposition pratiqués par les collectivités.
+Objectif
 
-Ce dépôt GitHub contient notre solution pour le défi 3 du hackathon organisé par la DGFiP. Notre équipe s'est penchée sur la mesure de l'attractivité fiscale des territoires pour les entreprises en utilisant des données publiques et des outils de visualisation.
-Technologies Utilisées
-
-    Langages : Python
-    Outils : Tableau, outils de visualisation de données, datamap
-    Librairies : Pandas, Matplotlib, etc.
-
-Structure du Répertoire
-
-  `app: Directory du code et son utilisation, le jeux de donne.`
-  
-  `README.md: Description détaillée du projet, instructions pour reproduire les résultats, et toute information pertinente.`
-
+L'objectif principal est de fournir une plateforme de comparaison des collectivités locales, mettant en lumière leur attractivité fiscale pour les entreprises. Cela permettra aux entrepreneurs de prendre des décisions éclairées quant à leur implantation.
 Méthodologie
+Collecte de Données
 
-    Acquisition des Données: Décrire comment les données ont été obtenues et traitées.
-    Analyse des Données: Expliquer les étapes de l'analyse des données, les algorithmes utilisés, et les outils de visualisation.
-    Création des Visualisations: Détails sur la création des tableaux de bord, graphiques, ou cartographies.
-    Interprétation des Résultats: Explication des conclusions tirées des analyses et visualisations.
+    Fichier REI : Recensement des éléments d'imposition.
+    Grille tarifaire des valeurs locatives : Pour évaluer les valeurs locatives des locaux professionnels.
+    Délibérations de fiscalité locale : Informations sur les exonérations et les abattements fiscaux.
 
-Instructions pour Reproduire
+Analyse des Données
 
-    Télécharger les données depuis [lien/ressources fournis].
-    Exécuter les scripts/programmes dans l'ordre spécifié dans /Scripts.
-    Ouvrir le fichier Tableau (s'il y en a un) pour visualiser les résultats.
+Les données seront analysées pour comparer :
 
-Ressources Utilisées
+    Taux d'imposition : CFE, TFPB, TFPNB, etc.
+    Bases d'imposition : Évaluation des critères utilisés pour établir ces bases.
+    Exonérations et abattements : Mesures d'allègement fiscal décidées par les collectivités.
 
-    Liens vers les jeux de données utilisés.
-    Liens vers des documents ou références externes pertinents.
+Outils Utilisés
 
-Équipe
+L'outil principal de datavisualisation sera Tableau pour créer des tableaux de bord, graphiques et cartographies.
+Comment Utiliser l'Outil
 
-    Ecole 42: Les collaborateurs du repository.
+    Cloner le repository.
+    Accéder au dossier de l'outil.
+    Utiliser Tableau pour ouvrir les fichiers de données et accéder aux visualisations.
+
+Contributions
+
+Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités, améliorer les analyses ou les visualisations, n'hésitez pas à ouvrir une pull request
