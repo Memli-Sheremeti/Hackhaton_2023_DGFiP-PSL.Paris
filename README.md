@@ -7,7 +7,8 @@ Objectif
 
 L'objectif principal est de fournir une plateforme de comparaison des collectivités locales, mettant en lumière leur attractivité fiscale pour les entreprises. Cela permettra aux entrepreneurs de prendre des décisions éclairées quant à leur implantation.
 Méthodologie
-Collecte de Données
+
+*Collecte de Données*
 
     Fichier REI : Recensement des éléments d'imposition.
     Grille tarifaire des valeurs locatives : Pour évaluer les valeurs locatives des locaux professionnels.
