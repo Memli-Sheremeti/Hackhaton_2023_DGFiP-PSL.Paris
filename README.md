@@ -33,4 +33,4 @@ Comment Utiliser l'Outil
 
 Contributions
 
-Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités, améliorer les analyses ou les visualisations, n'hésitez pas à ouvrir une pull request
+Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités, améliorer les analyses ou les visualisations, n'hésitez pas à ouvrir une pull request.
