@@ -1,6 +1,4 @@
-<div style="text-align:right;"> 
-    Outil d'Évaluation de l'Attractivité Fiscale des Territoires pour les Entreprises 
-</div>
+# Outil d'Évaluation de l'Attractivité Fiscale des Territoires pour les Entreprises 
 
 ## Contexte
 
