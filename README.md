@@ -1,5 +1,7 @@
-***Outil d'Évaluation de l'Attractivité Fiscale des Territoires pour les Entreprises
-Contexte***
+**Outil d'Évaluation de l'Attractivité Fiscale des Territoires pour les Entreprises**
+
+
+**Contexte**
 
 La décision stratégique d'implantation d'une entreprise dépend de nombreux facteurs, dont la pression fiscale locale. Cet outil vise à aider les entreprises à évaluer l'attractivité fiscale des territoires en Charente, en se basant sur une analyse des impôts locaux, des exonérations et des taux d'imposition pratiqués par les collectivités.
 Objectif
